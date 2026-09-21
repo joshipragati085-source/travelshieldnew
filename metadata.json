@@ -1,0 +1,10 @@
+{
+  "name": "TravelShield",
+  "description": "Explore India. Stay Protected. Your trusted companion for safer, smarter, and fair-priced travel with AI assistance, safety advisories, verified providers, and complaint filing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
